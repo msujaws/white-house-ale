@@ -1,6 +1,8 @@
 Instructions for making the official White House beers.
 =======================================================
 
+See http://www.whitehouse.gov/blog/2012/09/01/ale-chief-white-house-beer-recipe for the original release.
+
 White House Honey Porter
 ------------------------
 ### Ingredients
